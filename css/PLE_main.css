@@ -159,26 +159,26 @@ footer address{padding:0px 0px 15px 0px;}
 
 /*가상요소에 이미지 삽입*/
 #container .content .conbox:before{content:""; display:block; position:absolute; z-index: 5;}
-#container #menu1 .conbox:before{background:url(../images/python.PNG) no-repeat;
+#container #menu1 .conbox:before{background:url(../images/python.png) no-repeat;
                                 width:250px;
                                 height: 260px;
                                 right: 0px;
                                 left: 0px;
                                 top: 200px;
                                 background-size:100%;}
-#container #menu2 .conbox:before{background:url(../images/html.PNG) no-repeat;
+#container #menu2 .conbox:before{background:url(../images/html.png) no-repeat;
                                 width:250px;
                                 height: 260px;
                                 right: 0px;
                                 top: 300px;
                                 background-size:100%;}
-#container #menu3 .conbox:before{background:url(../images/sql.PNG) no-repeat;
+#container #menu3 .conbox:before{background:url(../images/sql.png) no-repeat;
                                 width:250px;
                                 height: 260px;
                                 right: 0px;
                                 top: 200px;
                                 background-size:100%;}
-#container #menu4 .conbox:before{background:url(../images/r.PNG) no-repeat;
+#container #menu4 .conbox:before{background:url(../images/r.png) no-repeat;
                                 width:250px;
                                 height: 260px;
                                 right: 0px;
